@@ -100,7 +100,7 @@ h1:hover{
 }
 
 h1{
-    font-size: calc(1em + 0.7vw);
+    font-size: calc(0.9em + 4px);
     margin: 0.4rem 0;
 }
 
